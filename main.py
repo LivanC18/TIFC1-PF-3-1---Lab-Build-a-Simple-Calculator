@@ -1,3 +1,11 @@
+"""
+def suma(a, b):
+    return a + b
+num1 = int(input("Ingresa el primer número: "))
+num2 = int(input("Ingresa el segundo número: "))
+print(suma(num1, num2))
+
+"""
 def suma(a, b):
     return a + b
 
@@ -48,9 +56,7 @@ def calculadora():
     else:
         print("Opción no válida.")
 
-
 calculadora()
-
 """
 def suma_3_valores(a, b,c):
     return a + b + c
